@@ -4,3 +4,12 @@
     background-color: burlywood;
     
 }
+.container{
+    border: 2px solid darkblue;
+    padding: 10px;
+}
+
+.confarticle{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
